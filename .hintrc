@@ -11,6 +11,8 @@
           "scale"
         ]
       }
-    ]
+    ],
+    "disown-opener": "opener"
+    // "off" tha phle
   }
 }
