@@ -1,0 +1,2 @@
+DONE: image switching working
+TODO: create slideshow on clicking product image
